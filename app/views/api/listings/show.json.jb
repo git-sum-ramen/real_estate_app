@@ -1,0 +1,12 @@
+{
+  description: @listing.description,
+  year_built: @listing.year_built,
+  square_feet: @listing.square_feet,
+  bedrooms: @listing.bedrooms,
+  bathrooms: @listing.bathrooms,
+  floors: @listing.floors,
+  availability: @listing.availability,
+  price: @listing.price,
+  latitude: @listing.latitude,
+  longitude: @listing.longitude,
+}
